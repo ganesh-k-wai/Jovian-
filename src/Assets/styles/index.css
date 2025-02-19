@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+label{
+    font-weight: 700;
+}
+input{
+    width: 280px;
+    padding: 2px;
+    border-radius: 5px;
+}
